@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M10 8C10 5.23858 12.2386 3 15 3H25C27.7614 3 30 5.23858 30 8V32C30 34.7614 27.7614 37 25 37H15C12.2386 37 10 34.7614 10 32V8Z" fill="#3B82F6"/>
+  <path d="M15 12H25M15 16H25M15 20H22" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  <path d="M35 15L40 20L35 25" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="45" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#1F2937">MoveMate</text>
+</svg>

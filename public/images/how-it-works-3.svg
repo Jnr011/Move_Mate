@@ -1,0 +1,29 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="80" fill="#D1FAE5"/>
+  
+  <!-- Delivery box -->
+  <rect x="70" y="100" width="60" height="50" fill="#10B981"/>
+  <rect x="75" y="105" width="50" height="40" fill="#D1FAE5"/>
+  <path d="M70 100L100 80L130 100" fill="#10B981"/>
+  
+  <!-- Checkmark -->
+  <path d="M85 120L95 130L115 110" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Rating stars -->
+  <g transform="translate(60, 60)">
+    <path d="M0 0L2 6L8 6L4 10L6 16L0 12L-6 16L-4 10L-8 6L-2 6Z" fill="#F59E0B"/>
+  </g>
+  <g transform="translate(80, 55)">
+    <path d="M0 0L2 6L8 6L4 10L6 16L0 12L-6 16L-4 10L-8 6L-2 6Z" fill="#F59E0B"/>
+  </g>
+  <g transform="translate(100, 60)">
+    <path d="M0 0L2 6L8 6L4 10L6 16L0 12L-6 16L-4 10L-8 6L-2 6Z" fill="#F59E0B"/>
+  </g>
+  <g transform="translate(120, 55)">
+    <path d="M0 0L2 6L8 6L4 10L6 16L0 12L-6 16L-4 10L-8 6L-2 6Z" fill="#F59E0B"/>
+  </g>
+  <g transform="translate(140, 60)">
+    <path d="M0 0L2 6L8 6L4 10L6 16L0 12L-6 16L-4 10L-8 6L-2 6Z" fill="#F59E0B"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="80" fill="#FEF3C7"/>
+  
+  <!-- Truck -->
+  <rect x="60" y="120" width="80" height="40" rx="8" fill="#3B82F6"/>
+  <rect x="60" y="100" width="40" height="20" rx="4" fill="#1E40AF"/>
+  <circle cx="80" cy="160" r="12" fill="#374151"/>
+  <circle cx="120" cy="160" r="12" fill="#374151"/>
+  
+  <!-- Route line -->
+  <path d="M40 100Q100 80 160 100" stroke="#F59E0B" stroke-width="3" stroke-dasharray="5,5"/>
+  
+  <!-- Start and end points -->
+  <circle cx="40" cy="100" r="8" fill="#10B981"/>
+  <circle cx="160" cy="100" r="8" fill="#EF4444"/>
+  
+  <!-- Clock icon -->
+  <circle cx="100" cy="60" r="15" fill="#F59E0B"/>
+  <path d="M100 60L100 50M100 60L105 65" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
